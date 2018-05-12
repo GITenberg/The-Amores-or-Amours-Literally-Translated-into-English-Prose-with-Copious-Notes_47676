@@ -1,4 +1,5 @@
 _repo: The-Amores-or-Amours-Literally-Translated-into-English-Prose-with-Copious-Notes_47676
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Riley, Henry T. (Henry Thomas)
@@ -7,6 +8,9 @@ contributor:
     deathdate: 1878
     gutenberg_agent_id: '8085'
     url: http://www.gutenberg.org/2009/agents/8085
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ovid
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2868
     wikipedia: http://en.wikipedia.org/wiki/Ovid
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47676#The-Amores-or-Amours-Literally-Translated-into-English-Prose-with-Copious-Notes
 gutenberg_issued: '2014-12-16'
 gutenberg_type: Text
 identifiers:
